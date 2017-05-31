@@ -4,4 +4,4 @@ This repo holds topics for meetings of the [NOLA Elixir Meetup](https://www.meet
 
 Below are links to the topics
 
-June 2017 - Processes
+June 2017 - [Processes](topics/Processes.md)
