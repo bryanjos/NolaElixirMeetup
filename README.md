@@ -8,7 +8,7 @@ Each month, we pick a general subject about Elixir to chat about. From immutabil
 
 ### For Beginners
 
-If you are a beginner to Elixir, then welcome! You will find a list of links to get started in the `topics` folder - just choose the file for the appropriate month, follow the links, and read away! Also the meetup you are attending may have people further along in Elixir than you - 
+If you are a beginner to Elixir, then welcome! You will find a list of links to get started in the `topics` folder - just choose the file for the appropriate month, follow the links, and read away! Also the meetup you are attending may have people further along in Elixir than you - make sure to ask questions, that's what they are there for.
 
 ### For Not-So-Beginners
 
