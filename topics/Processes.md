@@ -9,7 +9,9 @@ http://culttt.com/2016/07/11/working-processes-elixir/
 http://marcgg.com/blog/2015/06/04/getting-started-with-elixir-processes/
 
 ### Intermediate
-
+https://joearms.github.io/2013/04/02/Red-and-Green-Callbacks.html
 
 ### Advanced
 https://elixirschool.com/lessons/advanced/concurrency/#processes
+
+http://erlang.org/doc/reference_manual/processes.html
