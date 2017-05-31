@@ -1,6 +1,6 @@
 # Nola Elixir Meetup
 
-Welcome to the Nola Elixir Meetup repo, New Orleans's homegrown Elixir meetup group.  This repo contains the general guidelines and 
+Welcome to the Nola Elixir Meetup repo, New Orleans's homegrown Elixir meetup group.  This repo contains the general guidelines and rules for the meetup group as well as our list of resource links for each topic (read below).
 
 ### How does the meetup work?
 
