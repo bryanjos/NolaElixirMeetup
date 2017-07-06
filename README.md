@@ -23,3 +23,5 @@ If you would like to give a talk, we'd love that!  Please let the organizers at 
 Below are direct links to the monthly topics for your convenience 
 
 June 2017 - [Processes](topics/Processes.md)
+
+July 2017 - [Pattern Matching](topics/PatternMatching.md)
